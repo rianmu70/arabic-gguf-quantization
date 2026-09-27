@@ -1,0 +1,9 @@
+lm-eval
+transformers>=4.57,<4.58
+gguf
+huggingface_hub
+accelerate
+torch
+numpy
+pandas
+matplotlib

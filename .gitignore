@@ -1,0 +1,4 @@
+__pycache__/
+*.gguf
+.ipynb_checkpoints/
+analysis/*.png
