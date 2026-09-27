@@ -3,7 +3,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from matplotlib.patches import FancyBboxPatch
 plt.rcParams.update({"font.family":"Liberation Serif","font.size":9,"axes.linewidth":0.7,"savefig.dpi":300})
-r=pd.read_csv("../data/paper_tables/rq1_summary.csv")
+r=pd.read_csv("rq1_summary.csv")
 MODELS=[("Qwen3","Qwen3-4B"),("Qwen2.5","Qwen2.5-3B-Instruct"),("Llama","Llama-3.2-3B-Instruct")]
 QS=["F16","Q8_0","Q6_K","Q4_K_M","Q3_K_M","Q2_K"]
 
