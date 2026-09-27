@@ -1,0 +1,7 @@
+model,lang,passages,tokens_per_word
+Qwen3-4B,ar,488,2.284727663155451
+Qwen3-4B,en,488,1.257963528214761
+Llama-3.2-3B-Instruct,ar,488,2.299730129711848
+Llama-3.2-3B-Instruct,en,488,1.2449453444992304
+Qwen2.5-3B-Instruct,ar,488,2.284727663155451
+Qwen2.5-3B-Instruct,en,488,1.257963528214761
